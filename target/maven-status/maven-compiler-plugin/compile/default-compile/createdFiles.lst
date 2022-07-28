@@ -1,0 +1,15 @@
+io/helidon/archetypes/tests/jaxb/PersistenceUnitValidationModeType.class
+com/example/myproject/SimpleGreetResource.class
+com/example/myproject/Message.class
+io/helidon/archetypes/tests/jaxb/PersistenceUnitCachingType.class
+com/example/myproject/Pokemon.class
+io/helidon/archetypes/tests/jaxb/package-info.class
+io/helidon/archetypes/tests/jaxb/PersistenceUnitTransactionType.class
+io/helidon/archetypes/tests/jaxb/Persistence$PersistenceUnit$Properties.class
+com/example/myproject/PokemonType.class
+io/helidon/archetypes/tests/jaxb/ObjectFactory.class
+com/example/myproject/PokemonTypeResource.class
+io/helidon/archetypes/tests/jaxb/Persistence$PersistenceUnit$Properties$Property.class
+io/helidon/archetypes/tests/jaxb/Persistence$PersistenceUnit.class
+com/example/myproject/PokemonResource.class
+io/helidon/archetypes/tests/jaxb/Persistence.class
